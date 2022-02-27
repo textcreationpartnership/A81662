@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the blessed feast of Easter. Writs. by the La. Eleanor</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81662</idno>
+            <idno type="STC">Wing D1989</idno>
+            <idno type="STC">ESTC R231415</idno>
+            <idno type="EEBO-CITATION">99899959</idno>
+            <idno type="PROQUEST">99899959</idno>
+            <idno type="VID">137020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the blessed feast of Easter. Writs. by the La. Eleanor</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>Pp. 12+   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 12 has catchword "And".</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2481 lacks all after page 12.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Easter --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137020:1" rendition="simple:additions"/>
+            <pb facs="tcp:137020:1" rendition="simple:additions"/>
+            <p>FOR <hi>The bleſſed Feaſt</hi> OF EASTER.</p>
+            <p>Writs, By the La. ELEANOR.</p>
+            <p>
+               <hi>Let the Heavens reioyce, and let the Earth bee glad:</hi>
+            </p>
+            <p>
+               <hi>Let the Field be ioyfull, and all that is therein, be<g ref="char:EOLhyphen"/>fore the Lord, for he commeth, for he commeth to iudge the earth: he ſhall iudge the world with righteouſneſſe, and the People with his truth.</hi>
+            </p>
+            <p>Printed in the yeare, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:137020:2"/>
+            <pb n="3" facs="tcp:137020:2" rendition="simple:additions"/>
+            <head>TO THE ISLES OF Great <hi>BRITTAIN</hi> theſe; From <hi>PATMOS</hi> ILE:</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe the time ſhort, as here ſhewed, in the <hi>NAME</hi> OF GOD, Amen: ſhall name the Child, Name<g ref="char:EOLunhyphen"/>ly <hi>the bleſſed LAMBE</hi> ex<g ref="char:EOLhyphen"/>told ſo, <hi>and</hi> magnified in the <hi>Apocalyps:</hi> Even the weeke of EASTER, (as much to ſay) <hi>when the ge<g ref="char:EOLhyphen"/>nerall RES<g ref="char:V">Ʋ</g>RECTION time:</hi> And this is the interpretation thereof; of which aforeſaid Feaſt covered under NO few figures, Meta<g ref="char:EOLhyphen"/>phors and the like; Thus,</p>
+            <pb n="4" facs="tcp:137020:3"/>
+            <p>Given with ſuch a ſpeciall charge, <hi>to keepe the things written therein; verſe</hi> 3 (to wit) <hi>containes. Jnfalible fore-runners and ſignes, when the End of time at hand for the</hi> Churches Preparation <hi>to ſtand on their</hi> gaurd, <hi>leſt ſurpriſed unawares.</hi>
+            </p>
+            <p>And as here <hi>Times</hi> and <hi>Seaſons</hi> miſtery pro<g ref="char:EOLhyphen"/>claim'd with <hi>Times</hi> treble voices: <hi>grace and peace from him which JS, and which WAS; and which JS to COME: And from the ſeven ſpirits before</hi> (or in ſight of) <hi>the THRONE,</hi> ſo ſhews with<g ref="char:EOLhyphen"/>all His day of comming a GREATER then his proclaimed <hi>BY</hi> great <hi>BRIITAIN,</hi> whoſe feaſt ſolemnized about the Reſurrections feaſt, <hi>March</hi> 27.: Thoſe <hi>firſt and laſt Princes, or Kings;</hi> Of which laſt time the Prophet <hi>Daniel</hi> Thus in his laſt; <hi>And at that time ſhall</hi> Michael <hi>ſtand up the great</hi> Prince <hi>&amp;c.</hi> who ſeales it <hi>with</hi> theſe, <hi>Dan.</hi> 12. <hi>And many that ſleep in the duſt, ſhall awak, &amp;c.</hi> including thoſe obſerved Feaſts afore<g ref="char:EOLhyphen"/>ſhewed, for an expreſſe token of the generall <hi>Reſurrection</hi> in their Reigne, and at that very time and ſeaſon.</p>
+            <p>Touching which turning again to the <hi>Reve<g ref="char:EOLhyphen"/>lation</hi>
+            </p>
+            <pb n="5" facs="tcp:137020:3"/>
+            <p>
+               <hi>And with the Signe of the</hi> LAMB, <hi>proceeding</hi> lation, bearing the ſame date, <hi>verſ.</hi> 5. <hi>And from Jeſus CHRIST the faitfull</hi> Witneſſe, <hi>the firſt begotten of the dead,</hi> PRINCE <hi>of the</hi> KINGS <hi>of the Earth: That loved</hi> VS, <hi>and waſhed</hi> VS <hi>from our ſins in his own blood,</hi> concluded With theſe, <hi>and hath made us</hi> Kings <hi>and</hi> Prieſts, <hi>&amp;c. To</hi> HIM <hi>be glory and dominion, for ever and e<g ref="char:EOLhyphen"/>ver,</hi> Amen.</p>
+            <p>
+               <hi>Behold</hi> HEE <hi>commeth, &amp;c.</hi> Saying, <hi>J am</hi> ALPHA <hi>and</hi> OMEGA: Even ſo upon the LORDS day ſhewed unto that happie man: The Diſciple whom he Lord above the reſt en<g ref="char:EOLhyphen"/>truſted, The likeneſſe of the dreadfull day of <hi>J<g ref="char:V">Ʋ</g>DGMENT</hi> ſtanding in the middeſt of <hi>Watch-lights,</hi> ſaying; feare NOT, <hi>J am the firſt and the laſt</hi> King; <hi>J have the</hi> Keyes of HELL and DEATH: <hi>Write the things which Thou haſt ſeen, &amp;c.</hi> And he that hath an <hi>Eare</hi> let him heare the <hi>Spirit of Prophecie, and repent.</hi> Behold, I ſtand at the doore and knock, <hi>to Supp with him who holds the ſeaven</hi> Starres in his <hi>Hand,</hi> The evening of <hi>TIMES</hi> Enſigne.</p>
+            <pb n="6" facs="tcp:137020:4" rendition="simple:additions"/>
+            <p>
+               <hi>briefly beyond hope, that pre vailed to open the ſeven Sealed Booke of</hi> Times Myſtery; <hi>after his much weep<g ref="char:EOLhyphen"/>ing, becauſe no man was found worthy to read, or look? thereon: No not the Prophet</hi> Daniel, <hi>who more then once was bidden go thy way,</hi> (Dan. 12.) <hi>for the words are referred for the end of time.</hi>
+            </p>
+            <p>Thou ſhalt reſt, &amp;c.</p>
+            <p>
+               <hi>Even ſo,</hi> Glory, Honor, <hi>and</hi> Peace, <hi>be aſcribed to the</hi> Lamb, (Eaſter our Reſt) <hi>before whoſe face</hi> (Rev. 6.) <hi>Kings of the Earth, Mighty men, Great men, Rich men, and chiefe Captains, then taking their flight, as who able to ſtand in ſuch a Storm of confuſion, then commeth the great day of the wrath of the Lamb.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Revel. Chap. 7.</hi>
+               </bibl>
+               <p>As herè the yeare of <hi>Grace 1644.</hi> followes, when. accompliſhed <hi>(Or Seal'd)</hi> thoſe pernitious <hi>Windes</hi> till then not let looſe.</p>
+               <p>And, the <hi>Seales</hi> being ſealed or oppened, thus pro<g ref="char:EOLhyphen"/>ceeds.</p>
+            </q>
+            <p>And after theſe things, I ſaw foure Angels ſtan<g ref="char:EOLhyphen"/>ding at the foure corners of the <hi>Earth,</hi> holding the fower <hi>Winds,</hi> that the <hi>wind</hi> ſhould not blow: Saying hurt not the <hi>Earth,</hi> nor the <hi>Sea,</hi> till <hi>Wee</hi> have ſealed the Servants of God in the Foreheads.
+<pb n="7" facs="tcp:137020:4"/>And I heard the number of them that were Sea<g ref="char:EOLhyphen"/>led, and there Was ſeald a hundred and forty &amp;c. twelve times twelve, <hi>ſerving both for the months and yeare, and the equall houres divided between day and and night, when thoſe unreſtrained windes.</hi>
+            </p>
+            <p>
+               <hi>And as he heard the number of the one: Thenafter that (or the following yeare) which no man could num<g ref="char:EOLhyphen"/>ber, ſo he ſaw of all Nations ſtanding before the Throne, and before the</hi> Lamb, <hi>ſaying ſalvation to our God that ſitteth upon the Throne, and unto the</hi> Lamb, <hi>the yeare of our ſalvation (to wit in the month of</hi> March) <hi>re<g ref="char:EOLhyphen"/>nown through the world beginning about</hi> Eaſter. <hi>And as by ſitting on the throne expreſſes the</hi> Reſt <hi>or</hi> Sab<g ref="char:EOLhyphen"/>both day <hi>when it began alſo, obſerv'd by Chriſtians ſo loug, likewiſe every one by thoſe Palmes in their hands Enſignes of</hi> Victory <hi>and</hi> Peace, <hi>even proclaiming the Ioyfull yeare</hi> 1645. <hi>this victorious time of ſuch thanks<g ref="char:EOLhyphen"/>givings, wherein</hi> Babylon <hi>is blown up, and thus the laſt yeare, and the</hi> New Model <hi>ſignified hand in hand who have waſhed their Robes in</hi> the <hi>bloud of the Lamb, and made them ſo fayre.</hi>
+            </p>
+            <p>Wherefore there needs no further queſtion to be made of that <hi>Albion Army,</hi> who they are that ſerve him day and night, ſince not unknowne the
+<pb n="8" facs="tcp:137020:5"/>condition of ſouldiers, companions of reſtles time, of whoſe ſervice hard to indge between the ſtate of priſoners, where deſired, death flees a<g ref="char:EOLhyphen"/>way, and ſuch liberty as they enioy, which to be preferred or deſired, (as the Prophets <hi>Eſay</hi> 49) ſhewes or bindes them together here. That thou mayeſt ſay to the priſoners go forth, and them that ſit in darkeneſſe, ſhew your ſelves. <hi>They ſhall hunger nomore, neither ſhall the heat of the Sun ſmite them: The</hi> Lamb <hi>is their leader,</hi> aſmuch as to ſay <hi>Eaſter</hi> ſhall bid them welcom to the Lords table, and thus from their eyes teares wiped away by the <hi>Lamb</hi> in the midſt of the throne, when peace and the day of iudgement together going.</p>
+            <div type="part">
+               <head>
+                  <hi>Revel. Chap</hi> 14.</head>
+               <p>AND following the <hi>Lamb</hi> whether he go<g ref="char:EOLhyphen"/>eth, and his <hi>Albion Troups</hi> in their Virgin ſpringaray, his fathers name having in their foreheads, ſuch a year of God, of the inter<g ref="char:EOLhyphen"/>pretation whereof as followes. <hi>And loe a</hi> Lamb <hi>ſtood on mount</hi> Sion, <hi>and with him a hundred forty and foure &amp;c.</hi> where again the foreſaid yeare of our redemption, witnes theſe words.</p>
+               <pb n="9" facs="tcp:137020:5"/>
+               <p>
+                  <hi>Theſe are redeemed from among men, being the firſt fruits unto God and the</hi> Lamb, And theſe whereas <hi>ſinging a new ſong before the Throne, which ſong no man could learn but ſuch a certain number a hundred forty foure which were redeemed from the earth, no other then ſome watch word given (as it were) ſhew<g ref="char:EOLhyphen"/>ing</hi> When ſuch a New time come to paſſe of Re<g ref="char:EOLhyphen"/>formation, That then our Redemption drawes neere; As hereby ſhewed the houre come of his iudgement, This for another ſigne <hi>Babylons fall,</hi> firſt her Numerous <hi>Jdols</hi> caſt downe its faln, its faln; The time expreſt in that overflowing Wine preſſe of hers, a thouſand ſix hundred bearing date.</p>
+               <p>Wherefore no marvell though <hi>Syon</hi> tun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s up her Harps, ſo long out of tune, for ſuch a bleſ<g ref="char:EOLhyphen"/>ſed day where the Cup or Chalice of his indig<g ref="char:EOLhyphen"/>nation, not in a corner or in privat adminiſtred, but powred out in the Preſence of the holy An<g ref="char:EOLhyphen"/>gels, and in the Preſence of the <hi>Lamb:</hi> Even NO more of their reall PRESENCE and the like, to wit, who have no Reſt day nor Night, with ſulphorous Smokes ſuffocated, in their own kind rewarded for the bleſſed Sabboth dayes, violati<g ref="char:EOLhyphen"/>on, That ſolemne reſt prophand.</p>
+               <pb n="10" facs="tcp:137020:6"/>
+               <p>
+                  <hi>Even ſo</hi> again on the other ſide <hi>write, Bleſſed are the dead which dye in the Lord henceforth, that they may reſt from their labours, and their workes follow them.</hi> Shewing alſo for them with ſuch Val<g ref="char:EOLhyphen"/>lour and Courrage that have followed the Cauſe, theſe their everlaſting Epitaph.</p>
+               <p>And ſo much for the NEW <hi>Time,</hi> and for <hi>Babylons</hi> judgement, the day of judgements fore<g ref="char:EOLhyphen"/>runner, Her grapes being cryed full ripe, the houre unexpected Come, the Wine-preſſe trod<g ref="char:EOLhyphen"/>den without the Citie up to the Horſe-bridles, the horſes too drinke their fill of blood without meaſure, the ſixteen hundred yeares being fulfil<g ref="char:EOLhyphen"/>led, ſerving for the meaſured compaſſe of this Iſland, 1600 myles alſo, Thoſe furlongs. And this the contents of the <hi>Apocalyps</hi> 14. Chap. where Like the fruitleſſe tree after the fourth yeare cut downe, ſufferd to ſtand no longer.</p>
+            </div>
+            <div type="part">
+               <head>And proceeding on, <hi>Revela.</hi> Chap. 19.</head>
+               <p>FOr the great dayes Preparation, as here: a greater priveledge then thoſe <hi>Writs</hi> of Parli<g ref="char:EOLhyphen"/>ament to bee cal'd hether, to partake of The
+<pb n="11" facs="tcp:137020:6"/>
+                  <hi>Lambes marriage Supper;</hi> A bleſſing to bee deſired much more Then the <hi>beauty of Lillyes,</hi> to beare HER Company, granted ſhe <hi>ſhould be array<g ref="char:EOLhyphen"/>ed in fine Lynnon, cleane and white:</hi> As cleare by ſuch <hi>voices</hi> and <hi>Acclamation:</hi> Of which marriage <hi>Writs</hi> to be publiſhed; briefly as followes: Re<g ref="char:EOLhyphen"/>quiring rather a quire of paper, Then circum<g ref="char:EOLhyphen"/>ſcribed within the Narrow limmits of a ſheet or two.</p>
+               <p>For ſuch a meeting ſo long waited for: Re<g ref="char:EOLhyphen"/>preſented (as it were) by the <hi>gheſts invited Now to the Lords table the</hi> Eaſter-weeke: when as that Deciple about to fall down and <hi>worſhip, Charg'd; See thou do it NOT:</hi> not the firſt caveat entred to to flee <hi>Jdolatry.</hi>
+               </p>
+               <p>But going on with the <hi>Seaſon and Time,</hi> a thing of ſuch Conſequence, as here the <hi>
+                     <g ref="char:V">Ʋ</g>irgins day in Lent, after which, when Marriage licences ſo frequent,</hi> accompanied with the <hi>victorious Bridgrom, clothed in his Eaſter robes: a Veſture dipt in blood, proclaimed King of kings, and Lord of lords, that in righteouſneſſe makes war:</hi> his Coronation feaſt then, as crownd with ſo many Crowns, followed with his Saints, mounted or white Horſes every one; a greater ſhew then S<hi rend="sup">t</hi>. <hi>Georges</hi> his coming at hand, or any other.</p>
+               <pb n="12" facs="tcp:137020:7"/>
+               <p>whoſe Name called the <hi>Word of GOD,</hi> that un<g ref="char:EOLhyphen"/>knowne Name in another language (as it were) written, Not unlike thoſe words: <hi>Rex: Parlia<g ref="char:EOLhyphen"/>ment: Peers &amp;c. ver.</hi> Where ſhewd laſtly the fowls feaſted on fleſh, <hi>the Storke and Crane &amp;c.</hi> Not ig<g ref="char:EOLhyphen"/>norant of their time of comming, in the Spring time; <hi>as the Horſe</hi> (Chap. 14.) <hi>ſwimming in blood up to the neck, which know their owner;</hi> called unto the ſupper of the great God, to <hi>aſſemble and muſter</hi> themſelves <hi>to eate the fleſh of Kings, the fleſh of Cap<g ref="char:EOLhyphen"/>tains, the fleſh of mightie men,</hi> even Licenced by the <hi>Lamb, all the fowls to bee filled:</hi> All but ſo many <hi>tokens, or Enſignes</hi> diſplayed proclaiming when the houre of his <hi>Judgement,</hi> Come.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Revela.</hi> Chap. 21.</head>
+               <p>ANd as cald to witneſſe here, a Reformation ſet forth before the <hi>End;</hi> a new Modell, a new <hi>Heaven and a new Earth,</hi> new <hi>Jeruſa<g ref="char:EOLhyphen"/>lem prepared as a Bride to meete her Husband, where no more paine, teares, and the like,</hi> but like the Peac<g ref="char:EOLhyphen"/>able Spring; when painfull Winter paſt, to ſuch infirmities ſubject, as that heavenly voice ma<g ref="char:EOLhyphen"/>king known; <hi>Behold I make all things new, former things are paſt away, ſaying, it is done: J am</hi> Alpha <hi>and</hi> Omega; ſeales it with that <hi>unſearchable Name,</hi> the quinteſſence of <hi>Miſtery</hi> and <hi>Mercy.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
